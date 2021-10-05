@@ -1,0 +1,122 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Thedoughnutman 
+Thedoughnutman
+/
+Thedoughnutman.github.io
+Public
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Thedoughnutman.github.io/index.html
+@Thedoughnutman
+Thedoughnutman Update index.html
+Latest commit 5e98936 on Jun 28
+ History
+ 1 contributor
+79 lines (69 sloc)  3.12 KB
+   
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eric Pang</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+
+	<body background="/media/1galaxystarsbkg.gif"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#FF0000">
+	<p><font color="#FFFF00" face="bruh" size="6">Eric's Stuff!</font><img border="0" src="https://cdn.discordapp.com/attachments/794781232009052234/859315161567461386/internetexporgif.gif" width="88" height="31"></p>
+	<p><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">
+	<img src="https://cdn.discordapp.com/attachments/794781232009052234/859315172799414282/winner.gif"></a></p>
+	</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%"> 
+
+
+<p><span style="background-color: #FF0000"><font color="#FFFF00">You're Visitor<br>
+Number</font></span></p>
+<p>
+<!-- Start of CuterCounter Code -->
+<img src="https://www.cutercounter.com/hits.php?id=hxkppxp&nd=6&style=22" border="0" alt="website counter"></a>
+<!-- End of CuterCounter Code -->
+</p>
+<p>
+	
+<p><font color="#FF00FF" size="6">
+<marquee style="background-color: #FFFF00" scrollamount="15" scrolldelay="24" width="500">
+WELCOME TO MY WEBSITE!!!1!</marquee></font></p>
+	
+
+
+    <body>
+        <header>
+            <img src="https://cdn.discordapp.com/attachments/857500097717076016/859311708762144808/view_archive.png"  class="profile-img">
+			
+			<p><font color="#FFFF00">
+<span style="font-weight: 700; background-color: #FF0000">MY HERO ^</span></font></p>
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+			
+            <nav>
+                <ul>
+                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="hero">
+                <div class="section-inner">
+                    <img src="" class="profile-img">
+                    <h1>Hi, I'm Eric.</h1>
+                </div>
+            </section>
+            <section id="about">
+                <div class="section-inner">
+                    <h2>About</h2>
+                    <p>They call me big guy.</p>
+                    <h3>Achievements</h3>
+                    <ul>
+                        <li>All around a nice guy! 1!!</li>
+                    </ul>
+                </div>
+            </section>
+            <section id="contact">
+                <div class="section-inner">
+                    <h2>Contact</h2>
+                    <ul>
+                        <li><a href="https://www.instagram.com/_gymnasium__/">Instagram</a></li>
+						 <li><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">YouTube</a></li>
+						  <li><a href=<"626-561-7234">Fax</a></li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+        <footer>
+            © Trademark of Denmark - Eric&Gang, 2020
+        </footer>
+    </body>
+</html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
