@@ -8,3 +8,5 @@ https://github.com/taisel/IodineGBA
 
 only for GBA ROMS <25mb
 Should bypass school
+
+# No GBA video ROMS
