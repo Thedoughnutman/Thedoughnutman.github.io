@@ -64,6 +64,7 @@ var games = {
     "monster_force":"Monster Force",
     "mortal_kombat":"Mortal Kombat Advance",
 	"onepiece":"One Piece",
+    "mobile":"Gundam Seed",
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
@@ -107,9 +108,8 @@ var games = {
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
-    "zelda_minish":"The Legend of Zelda: The Minish Cap"
-    "mobile":"Gundam Seed"
-    "castle":"Castlevania - Aria"
+    "zelda_minish":"The Legend of Zelda: The Minish Cap",
+    "castle":"Castlevania - Aria",
 
 };
 var IodineGUI = {
