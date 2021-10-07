@@ -1,24 +1,19 @@
-<html>
-  <title>Street</title>
-</html>
-
-<code>
-<div id='emul'></div>
 <script>
-
-var NepPlayer = "#emul";
-
-var NepEmu = "cps3";
-
-var NepLang = "en";
-
-var gameUrl = "//github.com/Thedoughnutman/Thedoughnutman.github.io/raw/master/assets/ROM/cps3/sfiii3.zip";
-
-var NjsScript=document.createElement( 'script' );
-
-NjsScript.src="//mem.neptunjs.com/njs/njsLoader.js";
-
-document.body.appendChild(NjsScript)
-
-</script>
-</code>
+ 
+ 
+ 
+var NepPlayer = "#emu";     // ID of html element where the emulator will be inserted
+ 
+var NepEmu = "cps3";         // Platform select
+ 
+var NepZoom = "enable";     // Add extra button on toolbar to scale up emulator. Disabled by default
+ 
+var NepMaxWidth = "1100px"; // Maximum width size of emulator. 870px by default
+ 
+var NepLang = "en";         // Interface language of the emulator. EN by default
+ 
+var gameUrl = "//neptunjs.xyz/roms/cps/sfiii3.zip"; // Game Url
+ 
+<script>
+ 
+<script src="https://mem.neptunjs.com/njs/njsLoader.js" type="text/javascript"> //NeptunJS lib
