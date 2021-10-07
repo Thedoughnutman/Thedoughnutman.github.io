@@ -1,26 +1,24 @@
 <html>
-  <title>GUNDAM</title>
+  <title>MOBILE</title>
 </html>
 
+<code>
+<div id='emul'></div>
 <script>
- 
- 
- 
-var NepPlayer = "#emu";     // ID of html element where the emulator will be inserted
- 
-var NepEmu = "gba";         // Platform select
- 
-var NepZoom = "enable";     // Add extra button on toolbar to scale up emulator. Disabled by default
- 
-var NepMaxWidth = "1100px"; // Maximum width size of emulator. 870px by default
- 
-var NepLang = "en";         // Interface language of the emulator. EN by default
- 
-var EmuGbaBios = "enable";  // ( only for GBA ) GBA Bios Need for some games. Disabled by default
- 
-var gameUrl = "//neptunjs.xyz/roms/gba/1865 - The Legend of Zelda - The Minish Cap (U)(DCS).zip"; // Game Url
- 
+
+var NepPlayer = "#emul";
+
+var NepEmu = "gba";
+
+var NepLang = "en";
+
+var gameUrl = "/gbaa/Binaries/mobile.gba";
+
+var NjsScript=document.createElement( 'script' );
+
+NjsScript.src="//mem.neptunjs.com/njs/njsLoader.js";
+
+document.body.appendChild(NjsScript)
+
 </script>
- 
-<script src="https://mem.neptunjs.com/njs/njsLoader.js" type="text/javascript"> //NeptunJS lib 
-</script>
+</code>
