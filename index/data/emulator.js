@@ -18142,7 +18142,7 @@ var EJS = function(_0x574f5e) {
                                 _0x14264d['appendChild'](_0x428003('a', {
                                     'target': '_blank',
                                     'href': 'https://thedoughnutman.github.io'
-                                }, 'Emulator v' ['concat'](this['version']))), _0x2a1dda['appendChild'](_0x14264d), _0x2a1dda['setAttribute']('menu', '');
+                                }, 'My Hosted Version is on build# v' ['concat'](this['version']))), _0x2a1dda['appendChild'](_0x14264d), _0x2a1dda['setAttribute']('menu', '');
                             }
                             _0x2c1832 && clearTimeout(_0x2c1832), _0x2c1832 = setTimeout(function() {}, 0xfa0), _0x7f9f36['contextMenu']['timer'] = _0x2c1832;
                         } else _0x7f9f36['contextMenu']['style']['display'] = 'none';
