@@ -1,3 +1,15 @@
+var VERSION = '0.4.26'
+fetch('https://raw.githack.com/ethanaobrien/emulatorjs/main/data/version.json').then(response => {
+	if (response.ok) {
+		response.text().then(body => {
+			var version = JSON.parse(body);
+			var usingVersion = VERSION;
+			if (usingVersion != version.current_version) {
+				console.log('Update Available');
+			};
+		});
+	};
+});
 var scriptTag = document.getElementsByTagName('script')[0]
 var emu_main = document.createElement('script')
 emu_main.src = function() {
@@ -54,4 +66,3 @@ emu_main.onload = function() {
         'undefined' != typeof EJS_onGameStart && EJS_emulator.on('start-game', EJS_onGameStart);
     };
 };
-
